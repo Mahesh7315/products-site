@@ -1,0 +1,115 @@
+body {
+    padding: 100px 240px;
+    font-size: 15px;
+}
+
+h1 {
+    width: 30%;
+    color: hsl(300, 43%, 22%);
+    font-family: "League Spartan";
+    font-size: xxx-large;
+    font-weight: 700;
+    
+}
+
+h4 {
+    display: inline-block;
+    margin-left: 20px;
+    color: hsl(300, 43%, 22%);
+}
+
+.review1 {
+    background-color:  hsl(300, 24%, 96%);
+    position: absolute;
+    top:140px;
+    right: 420px;
+    width: 25%;
+    border: none;
+    border-radius: 4%;
+}
+
+.review2 {
+    background-color:  hsl(300, 24%, 96%);
+    position: absolute;
+    top:220px;
+    right: 330px;
+    width: 25%;
+    border-radius: 4%;
+}
+
+.review3 {
+    background-color:  hsl(300, 24%, 96%);
+    position: absolute;
+    top:300px;
+    right: 240px;
+    width: 25%;
+    border-radius: 4%;
+}
+
+.intro {
+    width: 35%;
+    color: hsl(303, 10%, 53%);
+    margin-bottom: 40px;
+}
+
+.img11 {
+    padding-left: 30px;
+}
+
+.content1 {
+    display: inline-block;
+    width: 25%;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    border-radius: 4%;
+}
+
+.content2 {
+    width: 25%;
+    display: inline-block;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    margin-left: 25px;
+    position: relative;
+    top: 20px;
+    border-radius: 4%;
+}
+
+.content3 {
+    width: 25%;
+    display: inline-block;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    margin-left: 25px;
+    position: relative;
+    top: 40px;
+    border-radius: 4%;
+}
+
+.profile {
+    float: left;
+    border-radius: 50%;
+    margin: 20px;
+    width: 15%;
+}
+
+.matter {
+    color : hsl(0, 0%, 100%) ;
+    clear: left;
+    display: block;
+}
+
+.name {
+    color : hsl(0, 0%, 100%);
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+.verified {
+    color: hsl(333, 80%, 67%);
+}
+
+.anchor {
+    margin-top: 30px;
+    display: block;
+}
